@@ -33,7 +33,7 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku  
 THEN I should have proper build scripts for a webpack application  
 
-![PWA - Text Editor](./assets/Text-Editor.png) 
+![PWA - Text Editor](./assets/PWA-Text-Editor.png) 
 
 Repository Link: https://github.com/pvang1987/PWA-Text-Editor  
 Deployment Link: https://pa-pwa-text-editor-001e61f3ecce.herokuapp.com/  
